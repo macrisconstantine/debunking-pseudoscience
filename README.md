@@ -1,4 +1,4 @@
-![[image](https://github.com/user-attachments/assets/d320242b-ad42-47fa-9cea-18e6793add39)](https://macrisconstantine.github.io/debunking-pseudoscience/)
+![image(https://github.com/user-attachments/assets/d320242b-ad42-47fa-9cea-18e6793add39)](https://macrisconstantine.github.io/debunking-pseudoscience/)
 
 # debunking-pseudoscience
 - This is a the resulting Unity build of a creative final project for the honors course Debunking Pseudoscience.
