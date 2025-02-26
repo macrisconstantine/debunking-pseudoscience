@@ -8,3 +8,4 @@
 - The larger planets enforce a proportionally strong gravitational pull on the spaceship.
 ## How to Play
 - Click the image above to try the game now :)
+- Or, if you'd like the full experience, download the app from the release tab on the right. 
