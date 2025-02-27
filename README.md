@@ -9,3 +9,6 @@
 ## How to Play
 - Click the image above to try the game now :)
 - Or, if you'd like the full experience, download the app from the release tab on the right. 
+## How I Made This
+- Found and customized some assets for the spaceship and planets.
+- 
