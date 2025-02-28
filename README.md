@@ -11,4 +11,4 @@
 - Or, if you'd like the full experience, download the app from the release tab on the right. 
 ## How I Made This
 - Found and customized some assets for the spaceship and planets.
-- 
+- Found a couple realistic skyboxes with and without constellation and star names. 
