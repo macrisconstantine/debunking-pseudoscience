@@ -12,4 +12,4 @@
 ## How I Made This
 - Found and customized some assets for the spaceship and planets.
 - Found a couple realistic skyboxes with and without constellation and star names. 
-- Created particle systems for the thrusters, and added custom lights to the ship. 
+- Created particle systems for the thrusters and added custom lights to the ship. 
